@@ -12,6 +12,7 @@ Request body:
     "path": "/home/your_username/Desktop/test"
 }
 `
+
 ###For Windows OS
 Request body:
 `{
